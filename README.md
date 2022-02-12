@@ -26,6 +26,8 @@ There are quite a few USB/IP Server implementations, with different layers of ab
 * [MarkOstis/USBIP-Virtual-USB-Device](https://github.com/MarkOstis/USBIP-Virtual-USB-Device): wrriten in Python
   + device: keyboard
   + device: mouse
+* [Gnuk](http://www.fsij.org/doc-gnuk/index.html): using [Chopstx](https://salsa.debian.org/gnuk-team/chopstx/chopstx), which can emulate a whole MCU
+  + device: OpenPGP Card V2.0
 
 ## USB/IP Client
 
