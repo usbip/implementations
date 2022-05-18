@@ -28,7 +28,7 @@ There are quite a few USB/IP Server implementations, with different layers of ab
   + device: mouse
 * [Gnuk](http://www.fsij.org/doc-gnuk/index.html): using [Chopstx](https://salsa.debian.org/gnuk-team/chopstx/chopstx), which can emulate a whole MCU
   + device: OpenPGP Card V2.0
-* [canokeys/canokey-usbip](github.com/canokeys/canokey-core): written in C
+* [canokeys/canokey-usbip](github.com/canokeys/canokey-usbip): written in C
   + device: U2F / FIDO2 with ed25519 and HMAC-secret
   + device: OpenPGP Card V3.4, [Supported Algorithm List](https://docs.canokeys.org/userguide/openpgp/#supported-algorithm)
   + device: PIV (NIST SP 800-73-4)
