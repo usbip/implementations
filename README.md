@@ -3,7 +3,7 @@
 According to the protocol, USB/IP has two roles:
 
 * USB/IP Server: Providing USB Devices, usually implementing USB Device Controller (UDC) and device functions
-* USB/IP Client: Using USB Devices, usally implementing USB Host Controller Interface (HCI)
+* USB/IP Client: Using USB Devices, usually implementing USB Host Controller Interface (HCI)
 
 ## USB/IP Server
 
@@ -35,7 +35,7 @@ There are quite a few USB/IP Server implementations, with different layers of ab
   + device: HOTP / TOTP
 * [chegewara/esp32-usbip-poc](https://github.com/chegewara/esp32-usbip-poc): written in C++
   + usbip client can access it via a Wifi named "esp32"
-  + device: simple usb device (like serial) attached to the ESP32S2 SoC (acting as a USB host)
+  + device: simple usb device (like serial) attached to the ESP32S2/S3 SoC (acting as a USB host)
 
 ## USB/IP Client
 
