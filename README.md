@@ -33,6 +33,9 @@ There are quite a few USB/IP Server implementations, with different layers of ab
   + device: OpenPGP Card V3.4, [Supported Algorithm List](https://docs.canokeys.org/userguide/openpgp/#supported-algorithm)
   + device: PIV (NIST SP 800-73-4)
   + device: HOTP / TOTP
+* [chegewara/esp32-usbip-poc](https://github.com/chegewara/esp32-usbip-poc): written in C++
+  + usbip client can access it via a Wifi named "esp32"
+  + device: simple usb device (like serial) attached to the ESP32S2 SoC (acting as a USB host)
 
 ## USB/IP Client
 
