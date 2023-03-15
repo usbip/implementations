@@ -38,7 +38,7 @@ There are quite a few USB/IP Server implementations, with different layers of ab
   + device: simple usb device (like serial) attached to the ESP32S2/S3 SoC (acting as a USB host)
 * [Sawchord/usbip-device](https://github.com/Sawchord/usbip-device), [trussed-dev/pc-usbip-runner](https://github.com/trussed-dev/pc-usbip-runner) and [Nitrokey/nitrokey-3-firmware](https://github.com/Nitrokey/nitrokey-3-firmware): written in Rust
   + device: FIDO
-  + device: CCID (OpenPGP, HTOP/TOTP)
+  + device: CCID
 
 ## USB/IP Client
 
